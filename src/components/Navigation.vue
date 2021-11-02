@@ -114,7 +114,7 @@ header {
       }
     }
   }
-
+ 
   .menu-icon {
     cursor: pointer;
     position: absolute;
